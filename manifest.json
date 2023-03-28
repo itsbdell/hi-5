@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Hi-5",
+    "version": "1.0",
+    "description": "Shows a popup window when clicked",
+    "action": {
+      "default_title": "Hi-5",
+      "default_popup": "popup.html",
+      "default_icon": "hi-five.png"
+    }
+}
+  
