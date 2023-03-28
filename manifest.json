@@ -6,7 +6,7 @@
     "action": {
       "default_title": "Hi-5",
       "default_popup": "popup.html",
-      "default_icon": "hi-five.png"
+      "default_icon": "hi-5.png"
     }
 }
   
