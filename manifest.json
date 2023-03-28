@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Hi-5",
     "version": "1.0",
-    "description": "Shows a popup window when clicked",
+    "description": "A simple space to manage weekly outreach.",
     "action": {
       "default_title": "Hi-5",
       "default_popup": "popup.html",
